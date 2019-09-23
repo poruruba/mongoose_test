@@ -7,7 +7,7 @@ var mqtt_client = null;
 
 const target_url = "http://XXX.XXX.XXX.XXX";
 const forward_url = 'http://localhost:10080/mongoose';
-const mqtt_url = "MQTTÉuÉçÅ[ÉJÇÃURL";
+const mqtt_url = "MQTT„Éñ„É≠„Éº„Ç´„ÅÆURL";
 
 const PIN_BUTTON1 = 4;
 const PIN_BUTTON2 = 21;
